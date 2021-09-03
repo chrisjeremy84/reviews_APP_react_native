@@ -6,10 +6,9 @@ import Details from '../screens/details';
 const screens = {
     Home: { 
         screen: Home, 
-        navigationOptions:{title: 'Review',
+        navigationOptions:{title: 'Review'},   
     },
-        
-    },
+    
     Details: { 
         screen: Details, 
         navigationOptions:{title: 'Details',
